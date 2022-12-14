@@ -1,0 +1,112 @@
+[
+    {
+    "precio":15000,
+    "id": 1,
+    "title": "Eléctrico 20",
+    "tipo": "Electrico",
+    "marca": "Ecotermo",
+    "img": "/img/ELE20.png",
+    "Stock": 5,
+    "destacado":1,
+    "uso": "Ideal para ambientes de espacios reducidos"
+    },
+    {
+    "precio":18000,
+    "id": 2,
+    "title": "Eléctrico 53",
+    "tipo": "Electrico",
+    "marca": "Ecotermo",
+    "img": "/img/ELE53.png",
+    "Stock": 5,
+    "destacado":1,
+    "uso": "Ideal para ambientes de espacios reducidos"
+    },
+    {
+    "precio":14000,
+    "id": 3,
+    "title": "Eléctrico 70",
+    "tipo": "Electrico",
+    "marca": "Ecotermo",
+    "img": "/img/ELE70.png",
+    "Stock": 5,
+    "destacado":1,
+    "uso": "Ideal para ambientes de espacios reducidos."
+    },
+    {
+    "precio":15000,
+    "id": 4,
+    "title": "Gas AP 150",
+    "tipo": "Gas",
+    "marca": "Ecotermo",
+    "img": "/img/AP150.png",
+    "Stock": 5,
+    "destacado":1,
+    "uso": "Ideal para ambientes de espacios reducidos."
+    },
+    {
+    "precio":15000,
+    "id": 5,
+    "title": "Gas AP 60",
+    "tipo": "Gas",
+    "marca": "Ecotermo",
+    "img": "/img/AP60.png",
+    "Stock": 10,
+    "destacado":1,
+    "uso": "Ideal para ambientes de espacios reducidos:"
+    },
+    {
+        "precio":8000,
+        "id": 6,
+        "title": "Gas Populi 53",
+        "tipo": "Gas",
+        "marca": "Populi",
+        "img": "/img/GASPOP70.png",
+        "Stock": 5,
+        "destacado":1,
+        "uso": "Ideal para ambientes de espacios reducidos"
+        },
+    {
+    "precio":8000,
+    "id": 7,
+    "title": "Gas Populi 70",
+    "tipo": "Gas",
+    "marca": "Populi",
+    "img": "/img/GASPOP70.png",
+    "Stock": 5,
+    "destacado":1,
+    "uso": "Ideal para ambientes de espacios reducidos:."
+    },
+    {
+    "precio":10000,
+    "id": 8,
+    "title": "Populi Gas 100",
+    "tipo": "Gas",
+    "marca": "Populi",
+    "img": "/img/GASPOP100.png",
+    "Stock": 5,
+    "destacado":1,
+    "uso": "Ideal para ambientes de espacios reducidos."
+    },
+    {
+    "precio":18000,
+    "id": 9,
+    "title": "Calefón",
+    "tipo": "Gas",
+    "marca": "Ecotermo",
+    "img": "/img/CALEFON.png",
+    "Stock": 5,
+    "destacado":1,
+    "uso": "Ideal para ambientes de espacios reducidos."
+    },
+    {
+    "precio":18000,
+    "id": 10,
+    "title": "Leñero",
+    "tipo": "Leña",
+    "marca": "Ecotermo",
+    "img": "/img/LENERO.png",
+    "Stock": 5,
+    "destacado":1,
+    "uso": "Ideal para ambientes de espacios reducidos"
+    }
+]
